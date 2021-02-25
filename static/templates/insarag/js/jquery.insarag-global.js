@@ -171,3 +171,12 @@
         });
     })
 })(jQuery);
+
+// Add banner at the top.
+(function ($) {
+    $(document).ready(function () {
+        var html = '<div class="banner-static" style="padding: 1rem; background-color: #fbfb38; position: sticky; top: 0; z-index: 9999; text-align: center;"><p>This is an archived copy of the INSARAG site. To visit the new site, go to <a style="color: inherit;text-decoration: underline;"href="https://www.insarag.org">https://www.insarag.org</a>.</p></div>';
+        $('body').prepend(html);
+    })
+})(jQuery);
+
