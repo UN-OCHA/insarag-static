@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">INICIO</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/inicio-es/88-es/methodologia</id>
+	<updated>2021-02-25T10:54:58+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/inicio-es/88-es/methodologia?format=feed&amp;type=atom"/>
+	<entry>
+		<title>NOTAS DE ORIENTACION TECNICA DE INSARAG</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/methospa/notas-de-orientacion-tecnica"/>
+		<published>2016-06-25T09:14:31+00:00</published>
+		<updated>2016-06-25T09:14:31+00:00</updated>
+		<id>https://www.insarag.org/methospa/notas-de-orientacion-tecnica</id>
+		<summary type="html">&lt;p&gt;Las Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica de INSARAG proporcionan lineamientos no vinculantes para los equipos USAR m&amp;aacute;s all&amp;aacute; de lo que se especifica como requisitos m&amp;iacute;nimos por las Gu&amp;iacute;as de INSARAG. Estas Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica son preparadas por los grupos de trabajo de INSARAG y posteriormente aprobadas por el Grupo Directivo de INSARAG. Es importante tomar en cuenta que estas Notas T&amp;eacute;cnicas de Orientaci&amp;oacute;n no son parte de las Gu&amp;iacute;as de INSARAG. Estas Notas refieren &amp;uacute;nicamente a buenas pr&amp;aacute;cticas y recomendaciones. No son las expectativas de los equipos USAR miembros de INSARAG o de los equipos USAR que se someten al proceso de Clasificaci&amp;oacute;n Externa (IEC) del INSARAG.&lt;/p&gt;
+&lt;p&gt;Las siguientes Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica han sido aprobadas hasta el momento:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notas de Orientaci&amp;oacute;n M&amp;eacute;dica:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Amputaciones_y_Desmembramiento.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Amputaciones y Desmembramiento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Identificacion_del_personal_medico_USAR.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Identificaci&amp;oacute;n de Personal M&amp;eacute;dico USAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Reportes_Medicos_Post_Mision.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Informes M&amp;eacute;dicos Post-Misi&amp;oacute;n&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Prestaci&amp;oacute;n_de_atenci&amp;oacute;n_m&amp;eacute;dica_en_un_entorno_austero_espec&amp;iacute;ficamente_en_un_espacio_confinado.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;La Prestaci&amp;oacute;n de Servicios de Atenci&amp;oacute;n M&amp;eacute;dica en un Ambiente Austero Espec&amp;iacute;ficamente en Espacios Confinados&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Recuperacion_de_Fallecidos_en_operaciones_USAR.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Recuperaci&amp;oacute;n de los Fallecidos Durante las Operaciones USAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/La_donaci&amp;oacute;n_de_suministros_m&amp;eacute;dicos_y_equipos_antes_de_la_desmovilizaci&amp;oacute;n.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;La Donaci&amp;oacute;n de Suministros M&amp;eacute;dicos y de Equipo antes de la Desmovilizaci&amp;oacute;n&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/El_tratamiento_m&amp;eacute;dico_del_paciente_atrapado_con_s&amp;iacute;ndrome_de_aplastamiento.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;El Manejo M&amp;eacute;dico del Paciente Atrapado con S&amp;iacute;ndrome de Aplastamiento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/08_INSARAG_Patient_Treatment_Record.pdf&quot;&gt;Record de Tratamiento del Paciente&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;Las Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica de INSARAG proporcionan lineamientos no vinculantes para los equipos USAR m&amp;aacute;s all&amp;aacute; de lo que se especifica como requisitos m&amp;iacute;nimos por las Gu&amp;iacute;as de INSARAG. Estas Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica son preparadas por los grupos de trabajo de INSARAG y posteriormente aprobadas por el Grupo Directivo de INSARAG. Es importante tomar en cuenta que estas Notas T&amp;eacute;cnicas de Orientaci&amp;oacute;n no son parte de las Gu&amp;iacute;as de INSARAG. Estas Notas refieren &amp;uacute;nicamente a buenas pr&amp;aacute;cticas y recomendaciones. No son las expectativas de los equipos USAR miembros de INSARAG o de los equipos USAR que se someten al proceso de Clasificaci&amp;oacute;n Externa (IEC) del INSARAG.&lt;/p&gt;
+&lt;p&gt;Las siguientes Notas de Orientaci&amp;oacute;n T&amp;eacute;cnica han sido aprobadas hasta el momento:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notas de Orientaci&amp;oacute;n M&amp;eacute;dica:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Amputaciones_y_Desmembramiento.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Amputaciones y Desmembramiento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Identificacion_del_personal_medico_USAR.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Identificaci&amp;oacute;n de Personal M&amp;eacute;dico USAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Reportes_Medicos_Post_Mision.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Informes M&amp;eacute;dicos Post-Misi&amp;oacute;n&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Prestaci&amp;oacute;n_de_atenci&amp;oacute;n_m&amp;eacute;dica_en_un_entorno_austero_espec&amp;iacute;ficamente_en_un_espacio_confinado.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;La Prestaci&amp;oacute;n de Servicios de Atenci&amp;oacute;n M&amp;eacute;dica en un Ambiente Austero Espec&amp;iacute;ficamente en Espacios Confinados&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/Recuperacion_de_Fallecidos_en_operaciones_USAR.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Recuperaci&amp;oacute;n de los Fallecidos Durante las Operaciones USAR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/La_donaci&amp;oacute;n_de_suministros_m&amp;eacute;dicos_y_equipos_antes_de_la_desmovilizaci&amp;oacute;n.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;La Donaci&amp;oacute;n de Suministros M&amp;eacute;dicos y de Equipo antes de la Desmovilizaci&amp;oacute;n&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/Spanish_version_docs/El_tratamiento_m&amp;eacute;dico_del_paciente_atrapado_con_s&amp;iacute;ndrome_de_aplastamiento.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;El Manejo M&amp;eacute;dico del Paciente Atrapado con S&amp;iacute;ndrome de Aplastamiento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.insarag.org/images/stories/Documents/Methodology/Guidance_Notes/MWG/08_INSARAG_Patient_Treatment_Record.pdf&quot;&gt;Record de Tratamiento del Paciente&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Metodologia" />
+	</entry>
+	<entry>
+		<title>LAS GUÍAS INSARAG</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/methospa/guias"/>
+		<published>2016-06-25T09:13:43+00:00</published>
+		<updated>2016-06-25T09:13:43+00:00</updated>
+		<id>https://www.insarag.org/methospa/guias</id>
+		<summary type="html">&lt;p&gt;El Grupo Directivo INSARAG aprob&amp;oacute; por unanimidad las nuevas Gu&amp;iacute;as INSARAG de 2015, y &amp;eacute;stas estan en vigor desde el 11 de febrero de 2015.&lt;/p&gt;
+&lt;p&gt;Las Gu&amp;iacute;as se componen de tres vol&amp;uacute;menes:&amp;nbsp;&lt;/p&gt;
+&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
+&lt;li&gt;Volumen I&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_I_-_Politica_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;:&lt;/a&gt; &lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_I_-_Politica_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pol&amp;iacute;tica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volumen II: Preparaci&amp;oacute;n y Respuesta (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_A_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Manual A: Desarrollo de Capacidades&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_B_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Manual B: Operaciones&lt;/a&gt;&amp;nbsp;&amp;nbsp; y&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_C_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;C Manual : Gu&amp;iacute;a de Clasificaci&amp;oacute;n/Reclasificaci&amp;oacute;n Externa de INSARAG (IEC / Rs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volumen III:&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_III-_Gua_operaciones_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; Manual de Campo&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Tenga en cuenta que las Clasificaciones/ Reclasificaciones Externas de INSARAG (IEC /R) que tendr&amp;aacute;n lugar luego del 1 de abril de 2015 se basar&amp;aacute;n en la norma de la lista de verificaci&amp;oacute;n&amp;nbsp; IEC/R del 2015 encontrada en el Volumen II, C Manual - IEC / R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los Estados miembros adoptaron con satisfacci&amp;oacute;n las nuevas Gu&amp;iacute;as y se comprometieron en apropiarse de ellas. Expresaron su inter&amp;eacute;s para traducir las Gu&amp;iacute;as a otros idiomas como el &amp;aacute;rabe (Emiratos &amp;Aacute;rabes Unidos), chino (China), franc&amp;eacute;s (Francia), alem&amp;aacute;n (Alemania), el hebreo (Israel), japon&amp;eacute;s (Jap&amp;oacute;n), Rusia (Rusia y Bielorrusia), Espa&amp;ntilde;ol (Per&amp;uacute;) y turco (Turqu&amp;iacute;a).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gu&amp;iacute;as INSARAG 2015:&lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;https://owncloud.unog.ch/public.php?service=files&amp;amp;t=01dea81b160432d10e7b1a1aa1a16427&quot; target=&quot;_self&quot; title=&quot;Gu&amp;iacute;as INSARAG 2015 (Ingles)&quot;&gt;(Ingles)&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://owncloud.unog.ch/index.php/s/paP0b9GUMU0wRm8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;Gu&amp;iacute;as INSARAG 2015 (espa&amp;ntilde;ol)&quot;&gt;(Espa&amp;ntilde;ol)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Forms:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/1._DATOS_DE_EQUIPO_USAR_-_USAR_Team_Fact_Sheet.xls&quot; target=&quot;_self&quot;&gt;DATOS DE EQUIPO USAR&lt;/a&gt;&amp;nbsp;- USAR Team Fact Sheet&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/2._REPORTE_DE_SITIO_DE_TRABAJO_-_Worksite_Report_form.xls&quot; target=&quot;_self&quot;&gt;REPORTE DE SITIO DE TRABAJO&lt;/a&gt;&amp;nbsp;- Worksite Report form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/3._TRIAGE_DEL_SITIO_DE_TRABAJO_-_Worksite_Triage_Form.xls&quot; target=&quot;_self&quot;&gt;TRIAGE DEL SITIO DE TRABAJO&lt;/a&gt;&amp;nbsp;-&amp;nbsp;Worksite Triage Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/4._EXTRACCION_DE_VICTIMA_-_Victim_Extrication_Form.xls&quot; target=&quot;_self&quot;&gt;EXTRACCION DE VICTIMA&lt;/a&gt;&amp;nbsp;- Victim Extraction Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/5._FORMULARIO_DE_DESMOVILIZACIN_-_Demobilisation__Form.xls&quot; target=&quot;_self&quot;&gt;FORMULARIO DE DESMOVILIZACI&amp;Oacute;N&lt;/a&gt;&amp;nbsp;- Demobilisation Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/6._REPORTE_DE_SITUACION_DEL_INCIDENTE_-SECTOR_-_Incident-Sector_Situation_Report.xls&quot; target=&quot;_self&quot;&gt;REPORTE DE SITUACION DEL INCIDENTE -SECTOR&lt;/a&gt;&amp;nbsp;- Incident Sector Situation Report&lt;/p&gt;
+&lt;p&gt;La Secretar&amp;iacute;a de INSARAG invita &amp;nbsp;a los Estados Miembros y a los donantes a traducir profesionalmente las Gu&amp;iacute;as a tantos idiomas como sea posible, para un alcance m&amp;aacute;s amplio.&lt;/p&gt;
+&lt;p&gt;Mientras tanto, encuentre a continuaci&amp;oacute;n algunas versiones anteriores de las Gu&amp;iacute;as INSARAG y sus traducciones disponibles:&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2012 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines-2012_ENG-_Read_version.pdf&quot;&gt;versi&amp;oacute;n Ingl&amp;eacute;s&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2012 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines-2012_SPA-_Read_version.pdf&quot;&gt;versi&amp;oacute;n en Espa&amp;ntilde;ol&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2011 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_and_Methodology_2011_edition_Hungarian_translation.pdf&quot;&gt;versi&amp;oacute;n en H&amp;uacute;ngaro&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_March_2008_Version_in_Arabic_Entire_Guidelines_as_One_Document.pdf&quot;&gt;versi&amp;oacute;n en &amp;Aacute;rabe&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Mar2008_RUS_FINAL.pdf&quot;&gt;versi&amp;oacute;n en Ruso&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/Guidelines/INSARAG_G-L_-Francais_2008.pdf&quot;&gt;versi&amp;oacute;n en Franc&amp;eacute;s&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Debajo la &amp;uacute;ltima versi&amp;oacute;n de las directrices del OSOCC&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.insarag.org/images/OSOCC_Guidelines_Espanol.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Directrices del OSOCC 2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;El Grupo Directivo INSARAG aprob&amp;oacute; por unanimidad las nuevas Gu&amp;iacute;as INSARAG de 2015, y &amp;eacute;stas estan en vigor desde el 11 de febrero de 2015.&lt;/p&gt;
+&lt;p&gt;Las Gu&amp;iacute;as se componen de tres vol&amp;uacute;menes:&amp;nbsp;&lt;/p&gt;
+&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
+&lt;li&gt;Volumen I&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_I_-_Politica_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;:&lt;/a&gt; &lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_I_-_Politica_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pol&amp;iacute;tica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volumen II: Preparaci&amp;oacute;n y Respuesta (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_A_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Manual A: Desarrollo de Capacidades&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_B_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Manual B: Operaciones&lt;/a&gt;&amp;nbsp;&amp;nbsp; y&amp;nbsp;&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_II_-_Manual_C_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;C Manual : Gu&amp;iacute;a de Clasificaci&amp;oacute;n/Reclasificaci&amp;oacute;n Externa de INSARAG (IEC / Rs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volumen III:&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Vol_III-_Gua_operaciones_SPA_20160218.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; Manual de Campo&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Tenga en cuenta que las Clasificaciones/ Reclasificaciones Externas de INSARAG (IEC /R) que tendr&amp;aacute;n lugar luego del 1 de abril de 2015 se basar&amp;aacute;n en la norma de la lista de verificaci&amp;oacute;n&amp;nbsp; IEC/R del 2015 encontrada en el Volumen II, C Manual - IEC / R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los Estados miembros adoptaron con satisfacci&amp;oacute;n las nuevas Gu&amp;iacute;as y se comprometieron en apropiarse de ellas. Expresaron su inter&amp;eacute;s para traducir las Gu&amp;iacute;as a otros idiomas como el &amp;aacute;rabe (Emiratos &amp;Aacute;rabes Unidos), chino (China), franc&amp;eacute;s (Francia), alem&amp;aacute;n (Alemania), el hebreo (Israel), japon&amp;eacute;s (Jap&amp;oacute;n), Rusia (Rusia y Bielorrusia), Espa&amp;ntilde;ol (Per&amp;uacute;) y turco (Turqu&amp;iacute;a).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gu&amp;iacute;as INSARAG 2015:&lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;https://owncloud.unog.ch/public.php?service=files&amp;amp;t=01dea81b160432d10e7b1a1aa1a16427&quot; target=&quot;_self&quot; title=&quot;Gu&amp;iacute;as INSARAG 2015 (Ingles)&quot;&gt;(Ingles)&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://owncloud.unog.ch/index.php/s/paP0b9GUMU0wRm8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;Gu&amp;iacute;as INSARAG 2015 (espa&amp;ntilde;ol)&quot;&gt;(Espa&amp;ntilde;ol)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Forms:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/1._DATOS_DE_EQUIPO_USAR_-_USAR_Team_Fact_Sheet.xls&quot; target=&quot;_self&quot;&gt;DATOS DE EQUIPO USAR&lt;/a&gt;&amp;nbsp;- USAR Team Fact Sheet&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/2._REPORTE_DE_SITIO_DE_TRABAJO_-_Worksite_Report_form.xls&quot; target=&quot;_self&quot;&gt;REPORTE DE SITIO DE TRABAJO&lt;/a&gt;&amp;nbsp;- Worksite Report form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/3._TRIAGE_DEL_SITIO_DE_TRABAJO_-_Worksite_Triage_Form.xls&quot; target=&quot;_self&quot;&gt;TRIAGE DEL SITIO DE TRABAJO&lt;/a&gt;&amp;nbsp;-&amp;nbsp;Worksite Triage Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/4._EXTRACCION_DE_VICTIMA_-_Victim_Extrication_Form.xls&quot; target=&quot;_self&quot;&gt;EXTRACCION DE VICTIMA&lt;/a&gt;&amp;nbsp;- Victim Extraction Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/5._FORMULARIO_DE_DESMOVILIZACIN_-_Demobilisation__Form.xls&quot; target=&quot;_self&quot;&gt;FORMULARIO DE DESMOVILIZACI&amp;Oacute;N&lt;/a&gt;&amp;nbsp;- Demobilisation Form&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://insarag.org/images/stories/6._REPORTE_DE_SITUACION_DEL_INCIDENTE_-SECTOR_-_Incident-Sector_Situation_Report.xls&quot; target=&quot;_self&quot;&gt;REPORTE DE SITUACION DEL INCIDENTE -SECTOR&lt;/a&gt;&amp;nbsp;- Incident Sector Situation Report&lt;/p&gt;
+&lt;p&gt;La Secretar&amp;iacute;a de INSARAG invita &amp;nbsp;a los Estados Miembros y a los donantes a traducir profesionalmente las Gu&amp;iacute;as a tantos idiomas como sea posible, para un alcance m&amp;aacute;s amplio.&lt;/p&gt;
+&lt;p&gt;Mientras tanto, encuentre a continuaci&amp;oacute;n algunas versiones anteriores de las Gu&amp;iacute;as INSARAG y sus traducciones disponibles:&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2012 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines-2012_ENG-_Read_version.pdf&quot;&gt;versi&amp;oacute;n Ingl&amp;eacute;s&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2012 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines-2012_SPA-_Read_version.pdf&quot;&gt;versi&amp;oacute;n en Espa&amp;ntilde;ol&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2011 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_and_Methodology_2011_edition_Hungarian_translation.pdf&quot;&gt;versi&amp;oacute;n en H&amp;uacute;ngaro&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_March_2008_Version_in_Arabic_Entire_Guidelines_as_One_Document.pdf&quot;&gt;versi&amp;oacute;n en &amp;Aacute;rabe&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/INSARAG_Guidelines_Mar2008_RUS_FINAL.pdf&quot;&gt;versi&amp;oacute;n en Ruso&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gu&amp;iacute;as INSARAG 2008 (&lt;a href=&quot;http://insarag.org/images/stories/Guidelines/INSARAG_G-L_-Francais_2008.pdf&quot;&gt;versi&amp;oacute;n en Franc&amp;eacute;s&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Debajo la &amp;uacute;ltima versi&amp;oacute;n de las directrices del OSOCC&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.insarag.org/images/OSOCC_Guidelines_Espanol.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Directrices del OSOCC 2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Metodologia" />
+	</entry>
+	<entry>
+		<title>METODOLOGIA</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/methospa/methodologia"/>
+		<published>2016-06-25T09:04:42+00:00</published>
+		<updated>2016-06-25T09:04:42+00:00</updated>
+		<id>https://www.insarag.org/methospa/methodologia</id>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ujwyj2RqZ58&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;La metodología de INSARAG se describe en sus Guías. Las Guías de INSARAG describen la respuesta USAR internacional como un ciclo que incluye las siguientes fases: preparación,movilización, operaciones, desmovilización y fase post-misión. Para cada una de estas fases, la metodología definida en las guías de INSARAG y en sus notas técnicas de orientación, describen lo que se puede esperar de un equipo USAR internacionales cuando responden a un país afectado por un terremoto. También se describe como debe realizarse la coordinación entre los equipos USAR y qué se espera del país afectado.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ujwyj2RqZ58&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;La metodología de INSARAG se describe en sus Guías. Las Guías de INSARAG describen la respuesta USAR internacional como un ciclo que incluye las siguientes fases: preparación,movilización, operaciones, desmovilización y fase post-misión. Para cada una de estas fases, la metodología definida en las guías de INSARAG y en sus notas técnicas de orientación, describen lo que se puede esperar de un equipo USAR internacionales cuando responden a un país afectado por un terremoto. También se describe como debe realizarse la coordinación entre los equipos USAR y qué se espera del país afectado.&lt;/p&gt;</content>
+		<category term="Metodologia" />
+	</entry>
+</feed>

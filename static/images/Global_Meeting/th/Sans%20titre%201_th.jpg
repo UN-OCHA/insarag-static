@@ -1,0 +1,7 @@
+--2021-02-25 14:10:08--  https://www.insarag.org/images/Global_Meeting/th/Sans%20titre%201_th.jpg
+Resolving www.insarag.org (www.insarag.org)... 185.2.4.29
+Connecting to www.insarag.org (www.insarag.org)|185.2.4.29|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+

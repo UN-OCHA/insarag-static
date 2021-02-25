@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Учения</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53</id>
+	<updated>2021-02-25T10:46:23+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53?format=feed&amp;type=atom"/>
+	<entry>
+		<title>REGIONAL EXERCISE 2010</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53/410-regional-exercise-2010"/>
+		<published>2016-09-23T22:10:15+00:00</published>
+		<updated>2016-09-23T22:10:15+00:00</updated>
+		<id>https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53/410-regional-exercise-2010</id>
+		<summary type="html">&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px;&quot;&gt;There were no INSARAG Asia Pacific&amp;nbsp;Regional Group Earthquake Response Exercise organised in 2010.&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span style=&quot;color: #333333; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px;&quot;&gt;There were no INSARAG Asia Pacific&amp;nbsp;Regional Group Earthquake Response Exercise organised in 2010.&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Учения" />
+	</entry>
+	<entry>
+		<title>REGIONAL EXERCISE 2011</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53/411-regional-exercise-2011"/>
+		<published>2016-09-23T22:11:00+00:00</published>
+		<updated>2016-09-23T22:11:00+00:00</updated>
+		<id>https://www.insarag.org/2016-05-27-12-05-32/2016-05-30-12-01-11/2016-05-30-12-04-53/411-regional-exercise-2011</id>
+		<summary type="html">&lt;h1 style=&quot;margin: 0px 0px 10px; padding: 0px; font-size: 18px; font-weight: 500; color: #65a6d0; text-transform: uppercase; clear: both; line-height: 19.8px; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #333333; font-size: 12px; text-transform: none;&quot;&gt;There were no INSARAG Asia Pacific&amp;nbsp;Regional Group Earthquake Response Exercise organised in 2011.&lt;/span&gt;&lt;/h1&gt;</summary>
+		<content type="html">&lt;h1 style=&quot;margin: 0px 0px 10px; padding: 0px; font-size: 18px; font-weight: 500; color: #65a6d0; text-transform: uppercase; clear: both; line-height: 19.8px; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #333333; font-size: 12px; text-transform: none;&quot;&gt;There were no INSARAG Asia Pacific&amp;nbsp;Regional Group Earthquake Response Exercise organised in 2011.&lt;/span&gt;&lt;/h1&gt;</content>
+		<category term="Учения" />
+	</entry>
+</feed>

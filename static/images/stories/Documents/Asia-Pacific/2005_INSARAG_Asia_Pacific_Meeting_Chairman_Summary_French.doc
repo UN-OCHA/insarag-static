@@ -1,0 +1,204 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f36\fbidi \fnil\fcharset178\fprq2{\*\panose 02010000000000000000}Traditional Arabic;}{\f47\froman\fcharset238\fprq2 Times New Roman CE;}{\f48\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f50\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f51\froman\fcharset162\fprq2 Times New Roman Tur;}{\f52\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f53\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f54\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f55\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f67\fmodern\fcharset238\fprq1 Courier New CE;}{\f68\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f70\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f71\fmodern\fcharset162\fprq1 Courier New Tur;}{\f72\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f73\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f74\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f75\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f397\fswiss\fcharset238\fprq2 Tahoma CE;}{\f398\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f400\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f401\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f402\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f403\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f404\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f405\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}
+{\f406\fswiss\fcharset222\fprq2 Tahoma (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \snext0 Normal;}{\s1 \rtlpar \qj \li0\ri0\sl360\slmult0\keepn\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 
+\ltrch\fcs0 \b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext0 heading 1;}{\s2 \rtlpar \qj \fi-360\li720\ri0\sl360\slmult0\keepn\nowidctlpar\tx720\faauto\outlinelevel1\rin720\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 
+\ltrch\fcs0 \b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext0 heading 2;}{\s3 \rtlpar \qc \li360\ri0\sl360\slmult0\keepn\nowidctlpar\faauto\outlinelevel2\rin360\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext0 heading 3;}{\s4 \rtlpar \qj \li360\ri0\sl360\slmult0\keepn\nowidctlpar\faauto\outlinelevel3\rin360\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext0 heading 4;}{\s5 \rtlpar \qc \li0\ri0\sl360\slmult0\keepn\nowidctlpar\faauto\outlinelevel4\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1033\langfe1025\cgrid\langnp1033\langfenp1025 \sbasedon0 \snext0 heading 5;}{\s6\ql \li0\ri0\keepn\widctlpar\faauto\outlinelevel5\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext0 heading 6;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li708\ri0\nowidctlpar\faauto\rin0\lin708\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext15 Normal Indent;}{\s16 \rtlpar \qj \li0\ri0\sl360\slmult0
+\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext16 Body Text;}{\s17\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af35\afs16\alang1025 
+\ltrch\fcs0 \f35\fs16\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext17 \ssemihidden Balloon Text;}{\s18\ql \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext18 header;}{\s19\ql \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 \sbasedon0 \snext19 footer;}{\*\cs20 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 page number;}}{\*\listtable{\list\listtemplateid1531376770\listhybrid{\listlevel\levelnfc1\levelnfcn1\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1590981252\'02\'00-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid2125120710\'02\'01-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1586588318\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li2340\jclisttab\tx2340\lin2340 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174415\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174415\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid356852386}{\list\listtemplateid-915536954
+\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-1117356440\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li480\jclisttab\tx480\lin480 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174403\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1200\jclisttab\tx1200\lin1200 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174405\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1920\jclisttab\tx1920\lin1920 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174401\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2640\jclisttab\tx2640\lin2640 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67174403\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3360\jclisttab\tx3360\lin3360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174405\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4080\jclisttab\tx4080\lin4080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174401
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4800\jclisttab\tx4800\lin4800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174403\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li5520\jclisttab\tx5520\lin5520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174405\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6240
+\jclisttab\tx6240\lin6240 }{\listname ;}\listid544104088}{\list\listtemplateid-816793644\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-98776070
+\'02\'00-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\fbias0 \fi-360\li780\jclisttab\tx780\lin780 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425
+\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li1500\jclisttab\tx1500\lin1500 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427
+\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-180\li2220\jclisttab\tx2220\lin2220 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174415
+\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li2940\jclisttab\tx2940\lin2940 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425
+\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li3660\jclisttab\tx3660\lin3660 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427
+\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-180\li4380\jclisttab\tx4380\lin4380 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174415
+\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li5100\jclisttab\tx5100\lin5100 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425
+\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-360\li5820\jclisttab\tx5820\lin5820 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427
+\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \fi-180\li6540\jclisttab\tx6540\lin6540 }{\listname ;}\listid790511974}{\list\listtemplateid-1183263036\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1870738266\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67174427\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67174415\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67174425\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174427\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174415\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174425\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174427\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid1296596817}{\list\listtemplateid39096278\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid41029958\'02\'00-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174425\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67174427\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67174415\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67174425\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67174427\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174415\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174425\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67174427\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid1536506052}}{\*\listoverridetable{\listoverride\listid356852386\listoverridecount0\ls1}
+{\listoverride\listid790511974\listoverridecount0\ls2}{\listoverride\listid544104088\listoverridecount0\ls3}{\listoverride\listid1536506052\listoverridecount0\ls4}{\listoverride\listid1296596817\listoverridecount0\ls5}}{\*\rsidtbl \rsid11303396}
+{\*\generator Microsoft Word 10.0.2627;}{\info{\title ???????? ?????????  ?????? ?? ????}{\author ISLT}{\operator INSARAG}{\creatim\yr2005\mo10\dy14\hr12\min4}{\revtim\yr2006\mo1\dy25\hr15\min16}{\printim\yr2006\mo1\dy25\hr15\min13}{\version22}{\edmins68}
+{\nofpages3}{\nofwords1213}{\nofchars6675}{\nofcharsws7873}{\vern16437}}\paperw11906\paperh16838\margl993\margr707\margt1417\margb1417\ltrsect 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale140\nolnhtadjtbl \fet0\ltrpar 
+\sectd \ltrsect\pgnrestart\linex0\headery708\footery708\colsx708\endnhere\sectdefaultcl\sftnbj {\header \ltrpar \pard\plain \ltrpar\s18\ql \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 {\rtlch\fcs1 \af0 \ltrch\fcs0 L\rquote INDE\~, New Delhi\~: Septembre 2005
+\par }}{\footer \ltrpar \pard\plain \ltrpar\s19\ql \li0\ri0\nowidctlpar\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 
+{\field{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs20\b PAGE  }}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs20\b\lang1024\langfe1024\noproof 3}}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs20\b 
+\par }\pard \ltrpar\s19\qr \li0\ri360\nowidctlpar\tqc\tx4536\tqr\tx9072\faauto\rin360\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 Antenne R\'e9gionale de l\rquote INSARAG en Tunisie 
+\par }}{\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\s6\ql \li0\ri0\keepn\widctlpar\faauto\outlinelevel5\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 {\rtlch\fcs1 \af36 \ltrch\fcs0                                  R\'e9union du Groupe R\'e9gional INSARAG\~: Asie/Pacifique
+\par }\pard\plain \ltrpar\qc \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 {\rtlch\fcs1 \ab\af36 \ltrch\fcs0 \b New Delhi, 12-13 Septembre 2005
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af36 \ltrch\fcs0 \b 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af36 \ltrch\fcs0 \b R\'e9sum\'e9 du Pr\'e9sident et plan de travail
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par 
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 L\rquote ouverture de la r\'e9union a \'e9t\'e9 assur\'e9e}{\ltrch\fcs1 \rtlch\fcs0 \f36\fs24\lang7169  }{\rtlch\fcs1 \af36 \ltrch\fcs0 par le Pr\'e9
+sident du Groupe R\'e9gional M. Ashim Khurana, suivie de remarques pr\'e9liminaires de la part de Mme Margareta Wahlstrom sous coordinatrice de l\rquote aide humanitaire \'e0 l\rquote ONU et Sous \endash  Secr\'e9taire G\'e9n\'e9
+ral des Affaires Humanitaires ainsi que d\rquote une allocution par M. S. Reghupaty, Ministre d\rquote Etat de l\rquote Int\'e9rieur de l\rquote Union du Gouvernement de l\rquote Inde.
+\par 
+\par L\rquote ensemble participants \'e0 la r\'e9union \'e9tait au nombre de 82, de 28 \'e9tats et organisations internationales\~; ce qui repr\'e9sentait 20 pays , l\rquote ASEAN et l\rquote ADRC de la r\'e9gion ainsi que des observateurs des autres groupes r
+\'e9gionaux. Ci-joint, la liste des participants.
+\par  
+\par La r\'e9union a d\'e9but\'e9 par un passage en revue des progr\'e8s relatifs aux d\'e9cisions prises par le Groupe R\'e9gional\~: Asie/Pacifique, de l\rquote ann\'e9e derni\'e8
+re suivi de communications et de discussions. Des exemplaires des textes des communications seront affich\'e9s sur l\rquote OSOCC virtuel ainsi que sur site Web INSARAG. Les th\'e8mes des communications ont \'e9t\'e9 comme suit\~:
+\par 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ltrpar\qj \fi-141\li567\ri0\widctlpar\jclisttab\tx480\faauto\ls3\rin0\lin567\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+Un rapport g\'e9n\'e9ral  sur les activit\'e9s de l\rquote INSARAG \'e0 l\rquote \'e9chelle mondiale.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}Une pr\'e9sentation et actualisation du Syst\'e8me et d\rquote Alerte et de coordination des catastrophes (GDACS). 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}Actualisation de la conceptualisation de la classification USAR.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}Actualisation de la coop\'e9ration dans le domaine de la gestion des catastrophes chez ASEAN,          y compris le plan pour l
+\rquote exercice r\'e9gional sur les  catastrophes de l\rquote ASEAN (ARDEX-05)              du 19-22 Septembre }{\ltrch\fcs1 \rtlch\fcs0 \f36\fs24\lang1025 2005\'fe\'fe}{\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ltrpar\qj \fi-141\li567\ri0\widctlpar\jclisttab\tx709\faauto\ls3\rin0\lin567\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+Informations sur l\rquote exercice INSARAG-USAR  pr\'e9vu pour 2006 en Chine
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}Mise au point des r\'e9sultats de l\rquote \'e9tude sur \'ab\~recherches sur l\rquote impact du d\'e9ploiement des \'e9
+quipes USAR internationales sur les r\'e9gions touch\'e9es par les tremblements de terre\~\'bb
+\par }\pard \ltrpar\qj \fi-141\li567\ri0\nowidctlpar\tx709\tx851\faauto\rin0\lin567\itap0 {\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\charrsid11303396 -}{\ltrch\fcs1 \ai \rtlch\fcs0 \i\f0\fs24\lang7169  }{\rtlch\fcs1 \af0 \ltrch\fcs0 Discussion de la formation des 
+\'e9quipes USAR internationales concernant le Groupe R\'e9gional\~: Asie/Pacifique}{\ltrch\fcs1 \rtlch\fcs0 \f0\fs24\lang7169 
+\par }\pard \ltrpar\qj \li426\ri0\nowidctlpar\tx567\tx709\tx851\faauto\rin0\lin426\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 - Une communication sur la \'ab\~ Gestion des risques des catastrophes totales\~\'bb\~ par ADRC, Kobe }{\ltrch\fcs1 \rtlch\fcs0 
+\f0\fs24\lang7169 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ltrpar\qj \fi-141\li567\ri0\widctlpar\jclisttab\tx567\faauto\ls3\rin0\lin567\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+Discussions autour des questions soulev\'e9es par la Nouvelle Z\'e9lande\~:
+\par }\pard \ltrpar\qj \li1134\ri0\widctlpar\faauto\rin0\lin1134\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 \'b0  Le rapport du Secr\'e9taire G\'e9n\'e9ral  \'e0 l\rquote Assembl\'e9e G\'e9n\'e9rale de l\rquote ONU
+\par \'b0  Gestion de l\rquote implication des \'e9tats du Pacifique et du bureau de l\rquote OCHA aux Fiji
+\par \'b0  Liens avec des organisations telles ASEAN et SOPAC
+\par \'b0  Actualisation des recommandations de l\rquote UNDAC et l\rquote OSOCC      
+\par \'b0  Installation de Bureaux-antennes r\'e9gionaux  INSARAG dans la r\'e9gion de l\rquote Asie/Pacifique 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ltrpar\qj \fi-141\li567\ri0\widctlpar\jclisttab\tx426\faauto\ls3\rin0\lin567\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+Informations sur le Syst\'e8me Global d\rquote Alerte des Catastrophes au Tsunami dans la r\'e9gion               de l\rquote Oc\'e9an Indien par le D\'e9partement charg\'e9 du d\'e9veloppement des Oc\'e9ans du gouvernement Indien
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af36 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 -\tab}Un atelier de travail a \'e9t\'e9 aussi organis\'e9 sur la prise de d\'e9cision \'e0 l\rquote \'e9chelle nationale en mati\'e8
+re        de d\'e9ploiement international de l\rquote USAR
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0  
+\par 
+\par 
+\par 
+\par }\pard\plain \ltrpar\s6\qc \li284\ri0\keepn\widctlpar\faauto\outlinelevel5\rin0\lin284\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+Recommandations et plan de travail du Groupe R\'e9gional INSARAG
+\par }\pard\plain \ltrpar\qc \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1036\langfe1025\cgrid\langnp1036\langfenp1025 {\rtlch\fcs1 \ab\af36 \ltrch\fcs0 \b Asie/Pacifique pour l\rquote ann\'e9e 2005-2006
+
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par            
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 1)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx567\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+La participation des pays des Iles du Pacifique de R\'e9seau INSARAG n\'e9cessite }{\rtlch\fcs1 \af0 \ltrch\fcs0 les besoins de r\'e9seau davantage de renforcement accru.}{\rtlch\fcs1 \af36 \ltrch\fcs0  Il a \'e9t\'e9 recommand\'e9 qu\rquote 
+une liste des pays des \'eeles de Pacifique prioritaires soit \'e9tablie avant la prochaine r\'e9union r\'e9gionale d\rquote Asie/Pacifique, en collaboration avec le bureau OCHA aux Fiji.
+\par }\pard \ltrpar\qj \fi-284\li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i (Ex\'e9cution\~: le Secr\'e9tariat INSARAG et l\rquote OCHA de Fiji)
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0    
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 2)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx567\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 Il a \'e9t\'e9
+ recommand\'e9 que la }{\rtlch\fcs1 \af0 \ltrch\fcs0 chekliste}{\rtlch\fcs1 \af36 \ltrch\fcs0  de classification soit revue en fonction des observations suivantes\~:
+\par }\pard \ltrpar\qj \li709\ri0\widctlpar\faauto\rin0\lin709\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 a- Rendre plus claire la distinction entre \'e9quipes USAR\~: lourdes et moyennes.    
+\par     Pour l\rquote heure, ces deux cat\'e9gories sont quasiment identiques
+\par b- Indiquer le temps minimum requis par op\'e9ration technique donn\'e9e.
+\par c- Revoir la n\'e9cessit\'e9 d\rquote un syst\'e8me d\rquote \'e9quipes de 24 heures pendant dix jours ouvrables pour les \'e9quipes lourdes et moyennes. Il conviendraitd\rquote envisager une r\'e9duction du temps de d\'e9ploiement. 
+\par }\pard \ltrpar\qj \fi-709\li709\ri0\widctlpar\faauto\rin0\lin709\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 (}{\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i Ex\'e9cution\~: le groupe de travail sur la classification USAR - INSARAG, le Secr\'e9tariat INSARAG)
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 3)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 Il a \'e9t\'e9 recommand
+\'e9 de fixer un d\'e9lai pour la mise au point d\'e9finitive de la checkliste de classification USAR .Il s\rquote agira ensuite de l\rquote appliquer, quitte \'e0 rectifier les insuffisances ult\'e9rieurement lorsqu\rquote elles auront \'e9t\'e9 identifi
+\'e9es. La date du 31 D\'e9cembre a \'e9t\'e9 propos\'e9e comme date limite.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i (Ex\'e9cution\~: le groupe de travail sur la classification USAR -INSARAG, le Secr\'e9tariat INSARAG)
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 4)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+La Chine a inform\'e9 le Groupe R\'e9gional qu\rquote elle se propose d\rquote organiser un exercice r\'e9gional USAR- INSARAG au terme du mois de  Juillet ou la premi\'e8re semaine d\rquote Ao\'fbt 2006 \'e0 l\rquote occasion du   30}{\rtlch\fcs1 
+\af36\afs16 \ltrch\fcs0 \fs16 \'e8me }{\rtlch\fcs1 \af36 \ltrch\fcs0  anniversaire du tremblement de terre du Tangshan. Elle a sollicit\'e9 la participation de pas moins de 15 structures USAR des pays du Groupe R\'e9gional ainsi que d\rquote 
+autres groupes r\'e9gionaux. Les d\'e9tails et invitations seraient \'e9labor\'e9es en collaboration avec le Secr\'e9tariat INSARAG.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i ( Ex\'e9cution\~: la Chine, le Secr\'e9tariat INSARAG )
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 5)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 Le Groupe R
+\'e9gional a invit\'e9 ses membres \'e0 appuyer le projet d\rquote \'e9tude de l\rquote  INSARAG\~:                \'abRecherches sur les effets du d\'e9ploiement des \'e9quipes internationales sur les r\'e9gions touch\'e9es par les tremblements de terre
+\~\'bb, par la fourniture d\rquote experts en interviews ainsi que des donn\'e9es secondaires sur des d\'e9ploiements ant\'e9rieurs relatifs \'e0 des tremblements de terre. Ces personnes devraient mettre ces information directement \'e0
+ la disposition de M. Brendon Morris avant la r\'e9union des chefs d\rquote \'e9quipes USAR de Novembre 2005 en Estonie.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i ( Ex\'e9cution\~: les pays membres )}{\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 6)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 Le Groupe R
+\'e9gional a discut\'e9 de la formation et a conclu que l\rquote on n\rquote a pas suffisamment insist\'e9 sur cette question. Il a recommand\'e9 d\rquote incorporer une session \'e0 toutes les r\'e9unions r\'e9gionales afin d\rquote \'e9
+laborer au sein de la r\'e9gion un programme d\rquote activit\'e9s de formation  USAR a cet effet pour l\rquote ann\'e9e suivante. Il conviendrait d\rquote ajouter ce programme au plan de travail du groupe r\'e9gional et de le publier sur une page \'e0
+ part  sur le site Web de l\rquote INSARAG. De m\'eame il conviendrait d\rquote envisager d\rquote autres options d\rquote am\'e9liorer, voire \'e9laborer, une conception de formation globale USAR  en collaboration avec les groupes r\'e9
+gionaux  de travail sur la formation disponibles.  
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i ( Ex\'e9cution\~: les pays membres, le secr\'e9tariat INSARAG , le groupe de travail INSARAG  sur la formation )
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 7)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 Il a \'e9t\'e9
+ convenu que OCHA et ACDM exploreraient une plus longue collaboration afin  d\rquote instaurer des m\'e9canismes et instruments UNDAC et INSARAG  dans la r\'e9gion ASEAN.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i ( Ex\'e9cution\~: FCSS, OCHA-Bangkok, le Pr\'e9sident d\rquote ACDM)
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1036\langfe1025\langfenp1025 \hich\af0\dbch\af0\loch\f0 8)\tab}}\pard \ltrpar\qj \li284\ri0\widctlpar\jclisttab\tx426\faauto\ls5\rin0\lin284\itap0 {\rtlch\fcs1 \af36 \ltrch\fcs0 On a recommand
+\'e9 d\rquote \'e9tablir une discussion entre ASEAN, SOPAC et ADRC en vue d\rquote aider les pays \'e0 mieux \'9cuvrer dans le cadre du TDRM. Les r\'e9sultats devraient \'eatre pr\'e9sent\'e9s \'e0 la prochaine r\'e9union r\'e9gionale INSARAG\~
+: Asie/Pacifique.  
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\jclisttab\tx1080\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af36\alang7169 \ltrch\fcs0 \i (}{\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i Ex\'e9cution\~: ADRC, ASEAN, SOPAC\~; le secr\'e9tariat d\rquote ASEAN doit prendre l
+\rquote initiative)}{\ltrch\fcs1 \ai \rtlch\fcs0 \i\f36\fs24\lang7169 
+\par }\pard \ltrpar\qj \li284\ri0\nowidctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\par 9) On a \'e9galement recommand\'e9 d\rquote organiser une r\'e9union  en tandem avec la prochaine r\'e9union r\'e9gionale INSARAG, en vue de susciter une discussion entre les organisations r\'e9gionales \'e0 propos des r\'e9
+ponses aux  tremblements de terre\~; il s\rquote agit d\rquote ASEAN, SOPAC, ICIMOD et SAARC. Il revient au Secr\'e9tariat INSARAG d\rquote inviter ces organisations r\'e9gionales \'e0 la prochaine r\'e9union r\'e9gionale Asie/Pacifique.
+\par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i ( Ex\'e9cution\~: Le Secr\'e9tariat INSARAG, le Pr\'e9sident r\'e9gional)
+\par }\pard \ltrpar\qj \li284\ri0\nowidctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 10) Il a \'e9t\'e9 convenu que, vu le renforcement des bureaux OCHA aux Fiji et \'e0 Bangkok, il se d\'e9gagerait dans la r\'e9gion une capacit\'e9 suffisante pour la poursuite des activit\'e9s INSARAG\~
+; ce qui permettra de r\'e9pondre aux pr\'e9occupations  manifest\'e9es par la Nouvelle Z\'e9lande concernant l\rquote \'e9ventualit\'e9 de la mise en place d\rquote un bureau-antenne  r\'e9gional.
+\par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i (Aucune ex\'e9cution n\'e9cessaire)}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\par }\pard \ltrpar\qj \li284\ri0\nowidctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\par 11) L\rquote Australie a \'e9t\'e9 \'e9lue Pr\'e9sident pour la p\'e9riode 2005/2006. Conform\'e9ment \'e0 la pratique en cours dans la r\'e9gion, la Vice-Pr\'e9sidence  pour 2005/2006 va \'e9choir \'e0 l\rquote Inde.
+\par 
+\par 12) La r\'e9union suivante en Australie en Sept/Oct 2006 ( le lieu reste \'e0 confirmer)
+\par }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i (Ex\'e9cution\~: le Secr\'e9tariat INSARAG)
+\par 
+\par }\pard \ltrpar\qj \li284\ri0\widctlpar\faauto\rin0\lin284\itap0 {\rtlch\fcs1 \ai\af36\alang7169 \ltrch\fcs0 \i 
+\par }{\rtlch\fcs1 \ai\af36 \ltrch\fcs0 \i 
+\par }{\rtlch\fcs1 \af36 \ltrch\fcs0 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }}

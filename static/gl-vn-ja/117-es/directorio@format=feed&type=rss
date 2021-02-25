@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Главная</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.insarag.org/gl-vn-ja/117-es/directorio</link>
+		<lastBuildDate>Thu, 25 Feb 2021 10:56:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.insarag.org/gl-vn-ja/117-es/directorio?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>DIRECTORIO USAR</title>
+			<link>https://www.insarag.org/2016-06-25-14-15-25/directorio-usar</link>
+			<guid isPermaLink="true">https://www.insarag.org/2016-06-25-14-15-25/directorio-usar</guid>
+			<description><![CDATA[<table style="color: #000000; font-family: Verdana; font-size: x-small; line-height: normal; padding: 10px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: top; font-size: x-small;" width="200px"><img src="http://insarag.org/templates/insarag/images/icon_logo.png" alt="Insarag" /></td>
+<td style="vertical-align: middle; font-size: large; font-weight: bold; color: slategray;" valign="top">INSARAG - USAR Directory</td>
+</tr>
+</tbody>
+</table>
+<table style="color: #000000; font-family: Verdana; font-size: x-small; line-height: normal; padding: 10px;" border="0" width="80%">
+<tbody>
+<tr>
+<td class="Menu" style="vertical-align: top; font-size: xx-small; border-right-width: 1px; border-right-style: solid; border-right-color: darkgrey; padding: 5px;" width="30%">
+<ul>
+<ul>
+<li><a class="" style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/MemberCountriesOverview.asp" target="">INSARAG member countries</a></li>
+<li><a class="" style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/USARTeamsByregion.asp" target="">USAR teams by Regional Group</a></li>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/USARTeamsByCountry.asp">USAR teams by country</a></li>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/USARTeamsByEmergency.asp">USAR teams by emergency</a></li>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/FocalPointsByCountry.asp">INSARAG focal points</a></li>
+</ul>
+</ul>
+<br /><br />
+<ul>
+<ul>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/USARTeamRequestChanges.asp">Modify or add USAR Teams</a></li>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/FocalPointsRequestChanges.asp">Modify or add INSARAG focal points</a></li>
+</ul>
+</ul>
+<br /><br />
+<ul>
+<li><a style="color: brown; text-decoration: none;" href="https://vosocc.unocha.org/USAR_Directory/login.asp">Administrator login</a></li>
+</ul>
+</td>
+<td style="vertical-align: top; font-size: x-small;" valign="top" width="70%">The INSARAG Search and Rescue Directory provides an overview of INSARAG member countries and their Urban Search and Rescue (USAR) teams. <br /><br /></td>
+</tr>
+</tbody>
+</table>]]></description>
+			<category>Directorio</category>
+			<pubDate>Sat, 25 Jun 2016 14:14:46 +0000</pubDate>
+		</item>
+		<item>
+			<title> DIRECTORIO</title>
+			<link>https://www.insarag.org/2016-06-25-14-15-25</link>
+			<guid isPermaLink="true">https://www.insarag.org/2016-06-25-14-15-25</guid>
+			<description><![CDATA[<p>El Directorio USAR de INSARAG ofrece detalles de todos los países miembros de INSARAG y de sus equipos USAR. La intención de este Directorio USAR es proporcionar una visión general de los diferentes equipos que están disponibles actualmente para despliegue internacional. Este directorio incluye tanto a los equipos de INSARAG con Clasificación Externa (IEC) como a todos aquellos equipos sin clasificación de INSARAG.</p>
+<p>Este directorio está abierto a todas las organizaciones voluntarias -gubernamentales y no gubernamentales- involucradas en proporcionar o potencialmente recibir asistencia o creación de capacidades USAR. La inclusión en el Directorio USAR no representa ninguna acreditación de los equipos USAR por parte de INSARAG. Todas las solicitudes de inclusión o de edición de esta base de datos se deben enviar a través del punto focal nacional de cada país miembro de INSARAG. En caso que no exista punto focal nacional, la solicitud deberá enviada directamente a la Secretaría de INSARAG a la dirección: <a href="mailto:insarag@un.org">insarag@un.org</a>.</p>
+<p>El punto focal de INSARAG en cada país se considera el punto central de contacto entre la Secretaría de INSARAG y todas las organizaciones involucradas con INSARAG en ese país. Para los países que tienen posibilidades de dar o de recibir asistencia internacional USAR,  INSARAG aconseja la designación de un punto focal operativo para INSARAG. Se espera que este punto focal operativo actúe como una contraparte de la Secretaría de INSARAG en el caso de un eventual despliegue de equipos USAR.</p>
+<p><a href="https://www.insarag.org/directory/usar-directory">Enlace al Directorio USAR</a></p>]]></description>
+			<category>Directorio</category>
+			<pubDate>Sat, 25 Jun 2016 14:13:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to INSARAG</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/89-es/grupos-regionales</id>
+	<updated>2021-02-25T10:50:46+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/89-es/grupos-regionales?format=feed&amp;type=atom"/>
+	<entry>
+		<title> GRUPOS REGIONALES DE INSARAG</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/grupos-regionales"/>
+		<published>2016-06-25T09:15:33+00:00</published>
+		<updated>2016-06-25T09:15:33+00:00</updated>
+		<id>https://www.insarag.org/grupos-regionales</id>
+		<summary type="html">&lt;p&gt;INSARAG está organizado en tres grupos regionales: Región de África/Europa/Medio Oriente, Región de las Américas y Región de Asia/Pacífico. Estos Grupos Regionales se reúnen anualmente para tomar medidas para fortalecer la respuesta USAR a nivel regional, para garantizar que la orientación estratégica y las políticas del Grupo Directivo de INSARAG se apliquen, y para asimilar la información pertinente de los países participantes para su presentación ante el Grupo Directivo de INSARAG.&lt;/p&gt;
+&lt;p&gt;Los Grupos Regionales fomentan la participación de todos los países de su región y su objetivo es proporcionar un foro para discutir temas relacionados con los equipos USAR, en cuanto a la cooperación regional y la creación y fortalecimiento de capacidades. Uno de los resultados principales de estas reuniones es un plan anual regional de trabajo que aborde temas relacionados al fortalecimiento y creación de capacidades, entrenamiento y otros temas concernientes a estrategias integradas para respuesta a los desastres. Cada Grupo Regional tiene por lo menos un Presidente y un Vicepresidente que son elegidos anualmente y que son miembros del Grupo Directivo de INSARAG.&lt;/p&gt;
+&lt;p&gt;Para más detalles sobre los eventos regionales, los ejercicios y las reuniones, por favor visite los enlaces dedicados a cada región.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://insarag.org/images/stories/Sans_titre.jpg&quot; alt=&quot;Sans_titre&quot; width=&quot;569&quot; height=&quot;261&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;INSARAG está organizado en tres grupos regionales: Región de África/Europa/Medio Oriente, Región de las Américas y Región de Asia/Pacífico. Estos Grupos Regionales se reúnen anualmente para tomar medidas para fortalecer la respuesta USAR a nivel regional, para garantizar que la orientación estratégica y las políticas del Grupo Directivo de INSARAG se apliquen, y para asimilar la información pertinente de los países participantes para su presentación ante el Grupo Directivo de INSARAG.&lt;/p&gt;
+&lt;p&gt;Los Grupos Regionales fomentan la participación de todos los países de su región y su objetivo es proporcionar un foro para discutir temas relacionados con los equipos USAR, en cuanto a la cooperación regional y la creación y fortalecimiento de capacidades. Uno de los resultados principales de estas reuniones es un plan anual regional de trabajo que aborde temas relacionados al fortalecimiento y creación de capacidades, entrenamiento y otros temas concernientes a estrategias integradas para respuesta a los desastres. Cada Grupo Regional tiene por lo menos un Presidente y un Vicepresidente que son elegidos anualmente y que son miembros del Grupo Directivo de INSARAG.&lt;/p&gt;
+&lt;p&gt;Para más detalles sobre los eventos regionales, los ejercicios y las reuniones, por favor visite los enlaces dedicados a cada región.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://insarag.org/images/stories/Sans_titre.jpg&quot; alt=&quot;Sans_titre&quot; width=&quot;569&quot; height=&quot;261&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Grupos Regionales" />
+	</entry>
+</feed>

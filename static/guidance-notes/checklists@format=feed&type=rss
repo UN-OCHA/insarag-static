@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Checklists</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.insarag.org/guidance-notes/checklists</link>
+		<lastBuildDate>Thu, 25 Feb 2021 10:42:58 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.insarag.org/guidance-notes/checklists?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>IEC &amp; R</title>
+			<link>https://www.insarag.org/guidance-notes/checklists/iec</link>
+			<guid isPermaLink="true">https://www.insarag.org/guidance-notes/checklists/iec</guid>
+			<description><![CDATA[<p><b>INSARAG External Classification (IEC) and INSARAG External Reclassification (IER) Checklists for Light, Medium and Heavy USAR Teams</b></p>
+<p>&nbsp;&nbsp;</p>
+<p>The IEC and IER Checklists for Light, Medium and Heavy USAR Teams were approved by the INSARAG Steering Group. It is utilized by IEC/R Classifiers during an IEC/R, and its primary purpose is to ensure that the classification is conducted in an objective manner. The checklists provide quality assurance by ensuring that all Classified teams are prepared to offer professional services, operate in a collaborative manner, and provide timely life-saving assistance to an affected population.</p>
+<p>&nbsp;</p>
+<p>The IEC/R Checklists are &ldquo;living documents&rdquo; and are reviewed annually by the INSARAG Training Working Group. Changes to the checklists will be approved at the annual ISG meeting and disseminated to all USAR Teams through the Regional Troikas and <span style="text-decoration: underline;"><a href="http://www.insarag.org/">www.insarag.org</a></span>.</p>
+<p>&nbsp;</p>
+<p>For more information on the Checklists, USAR Teams are encouraged to refer to <a href="https://www.insarag.org/guidelines" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;"><b>Volume </b></span><span style="text-decoration: underline;"><b>II, Manual C of </b></span><span style="text-decoration: underline;"><b>the </b></span><span style="text-decoration: underline;"><b>INSARAG </b></span><span style="text-decoration: underline;"><b>Guidelines</b></span></a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="width: 622px; height: 57px;">
+<tbody>
+<tr>
+<td style="background-color: #0066ff;"><span style="color: #ffffff;">S/N</span></td>
+<td style="background-color: #0066ff;"><span style="color: #ffffff;">Item</span></td>
+<td style="background-color: #0066ff;"><span style="color: #ffffff;">Download Link</span></td>
+<td style="background-color: #0066ff;"><span style="color: #ffffff;">POC</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;"><strong>1</strong></td>
+<td style="border: 1px solid #000000;"><strong>IEC/R Checklist</strong></td>
+<td style="border: 1px solid #000000;">&nbsp;<a href="https://www.insarag.org/images/INSARAG_Guidelines_Vol_2_Man_C_Annex_D1_-_IEC_R_Checklist_2020.xlsx" target="_blank" rel="noopener noreferrer">Link</a></td>
+<td style="border: 1px solid #000000;"><strong>Training Working Group</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+			<category>Checklists</category>
+			<pubDate>Wed, 15 Apr 2020 08:53:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Others</title>
+			<link>https://www.insarag.org/guidance-notes/checklists/others</link>
+			<guid isPermaLink="true">https://www.insarag.org/guidance-notes/checklists/others</guid>
+			<description><![CDATA[<p>This section is allocated to all uncategorized INSARAG endorsed checklists that would be employed to strengthen and enhance INSARAG&rsquo;s capability and quality assurance.</p>
+<p>&nbsp;</p>
+<table style="width: 971px; height: 61px;">
+<tbody>
+<tr>
+<td style="background-color: #0066ff;">
+<p><span style="color: #ffffff;"><b>S/N</b></span></p>
+</td>
+<td style="background-color: #0066ff;">
+<p><span style="color: #ffffff;"><b>Item</b></span></p>
+</td>
+<td style="background-color: #0066ff;">
+<p><span style="color: #ffffff;"><b>Download Link</b></span></p>
+</td>
+<td style="background-color: #0066ff;">
+<p><span style="color: #ffffff;"><b>Working Group</b></span></p>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">
+<p><b>-</b></p>
+</td>
+<td style="border: 1px solid #000000;">
+<p><b>-</b></p>
+</td>
+<td style="border: 1px solid #000000;">
+<p><b>-</b></p>
+</td>
+<td style="border: 1px solid #000000;">
+<p><b>-</b></p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+			<category>Checklists</category>
+			<pubDate>Wed, 15 Apr 2020 10:52:39 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

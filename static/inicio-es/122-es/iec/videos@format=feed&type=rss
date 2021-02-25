@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>INICIO</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.insarag.org/inicio-es/122-es/iec/videos</link>
+		<lastBuildDate>Thu, 25 Feb 2021 10:58:05 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.insarag.org/inicio-es/122-es/iec/videos?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Videos</title>
+			<link>https://www.insarag.org/2016-06-25-14-38-49/videos</link>
+			<guid isPermaLink="true">https://www.insarag.org/2016-06-25-14-38-49/videos</guid>
+			<description><![CDATA[</p>IEC of Italy - November 2018</p>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/z7pCXXK1w1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>IEC of Colombia - March 2018</p>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AQjRS_h49N4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>IEC of Armenia - September 2015</p>
+<p><iframe src="https://www.youtube.com/embed/Jw8W2JsoyfI" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+<p>INSARAG Polex 2013</p>
+<p><iframe src="https://www.youtube.com/embed/YOzYdGvwRqk" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+<p>INSARAG Asia-Pacific Regional Exercise (Nepal)</p>
+<p><iframe src="https://www.youtube.com/embed/vZztvMNoq6k" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+<p>IEC-Klassifizierung SARUV (Mai 2011)</p>
+<p><iframe src="https://www.youtube.com/embed/DUKdFUVllbI" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+<p>EMERCOM Classification 2011 video 1</p>
+<p><iframe src="https://www.youtube.com/embed/VdpHJOo07qI" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+<p>EMERCOM Classification 2011 video 2</p>
+<p><iframe src="https://www.youtube.com/embed/uAoO6nCtRCQ" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe></p>]]></description>
+			<category>Videos</category>
+			<pubDate>Sat, 25 Jun 2016 14:29:07 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

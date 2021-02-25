@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Welcome to INSARAG</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/46-en/directory</id>
+	<updated>2021-02-25T10:52:59+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/46-en/directory?format=feed&amp;type=atom"/>
+	<entry>
+		<title>DIRECTORY</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/directory"/>
+		<published>2016-04-25T08:05:17+00:00</published>
+		<updated>2016-04-25T08:05:17+00:00</updated>
+		<id>https://www.insarag.org/directory</id>
+		<summary type="html">&lt;p&gt;This INSARAG USAR directory provides details on all INSARAG member countries and their USAR teams. The intention of this USAR directory is to provide an overview of the different teams currently available for international deployment. This directory includes both INSARAG Externally Classified (IEC) teams as well as those teams that are not IEC classified.&lt;/p&gt;
+&lt;p&gt;This directory is open to all governmental or non-governmental/volunteer organisations involved in providing or potentially receiving international USAR assistance or USAR capacity building.&amp;nbsp;Inclusion in the USAR directory does not represent any accreditation of the USAR team by INSARAG&amp;nbsp;.&amp;nbsp;All requests for inclusion into or editing of this database should be submitted through the INSARAG country national focal point or where this is not in place sent the &lt;a href=&quot;https://www.insarag.org/images/stories/blank_sar_team_information_Updated_Jan._2016.doc&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;attached form&lt;/a&gt;&amp;nbsp;directly to the INSARAG secretariat at: &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;
+&lt;p&gt;The INSARAG country national focal point is considered the central point of contact between the INSARAG secretariat and all organisations in that country involved in the INSARAG. For countries that are likely to provide or receive international USAR assistance, &amp;nbsp;INSARAG advises the designation of an INSARAG operational focal point. This operational focal point is&amp;nbsp;expected to act as a counter part to the INSARAG Secretariat in the event of any actual USAR team deployments.&lt;br /&gt; &lt;a href=&quot;https://www.insarag.org/directory/usar-directory&quot; target=&quot;_blank&quot; title=&quot;Link to USAR Directory&quot;&gt;Link to USAR Directory&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;This INSARAG USAR directory provides details on all INSARAG member countries and their USAR teams. The intention of this USAR directory is to provide an overview of the different teams currently available for international deployment. This directory includes both INSARAG Externally Classified (IEC) teams as well as those teams that are not IEC classified.&lt;/p&gt;
+&lt;p&gt;This directory is open to all governmental or non-governmental/volunteer organisations involved in providing or potentially receiving international USAR assistance or USAR capacity building.&amp;nbsp;Inclusion in the USAR directory does not represent any accreditation of the USAR team by INSARAG&amp;nbsp;.&amp;nbsp;All requests for inclusion into or editing of this database should be submitted through the INSARAG country national focal point or where this is not in place sent the &lt;a href=&quot;https://www.insarag.org/images/stories/blank_sar_team_information_Updated_Jan._2016.doc&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;attached form&lt;/a&gt;&amp;nbsp;directly to the INSARAG secretariat at: &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;
+&lt;p&gt;The INSARAG country national focal point is considered the central point of contact between the INSARAG secretariat and all organisations in that country involved in the INSARAG. For countries that are likely to provide or receive international USAR assistance, &amp;nbsp;INSARAG advises the designation of an INSARAG operational focal point. This operational focal point is&amp;nbsp;expected to act as a counter part to the INSARAG Secretariat in the event of any actual USAR team deployments.&lt;br /&gt; &lt;a href=&quot;https://www.insarag.org/directory/usar-directory&quot; target=&quot;_blank&quot; title=&quot;Link to USAR Directory&quot;&gt;Link to USAR Directory&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Directory" />
+	</entry>
+</feed>

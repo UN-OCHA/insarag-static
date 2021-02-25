@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Global News</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/global-structures/global-news/233-en/technical-reference-library/irnap</id>
+	<updated>2021-02-25T11:00:31+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/global-structures/global-news/233-en/technical-reference-library/irnap?format=feed&amp;type=atom"/>
+	<entry>
+		<title>View All</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/technical-reference-library/irnap/view-all"/>
+		<published>2020-06-04T08:06:35+00:00</published>
+		<updated>2020-06-04T08:06:35+00:00</updated>
+		<id>https://www.insarag.org/technical-reference-library/irnap/view-all</id>
+		<author>
+			<name>Marie Mure</name>
+		</author>
+		<summary type="html">&lt;p&gt;The documents in this section are Best Practices by local USAR teams who had undergone INSARAG Recognised National Accreditation Process. These reports should be viewed as Reference Materials. For more information on the TRL, click on this &lt;span style=&quot;text-decoration: underline;&quot;&gt;link &lt;/span&gt;&amp;ndash; links the reader to TRL Tab in INSARAG.org&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Document Submission&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To upload a document, submit the document and details of the document, using the &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;document submission form&lt;/b&gt;&lt;/span&gt; &amp;ndash; links the reader to the &amp;ldquo;Document Submission Form for TRL&amp;rdquo; and email to the INSARAG Secretariat via &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;&lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;.&lt;/b&gt;&lt;/span&gt; For more information on the upload process and workflow, please refer to the following &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;link. &lt;/b&gt;&lt;/span&gt;&amp;ndash; links the reader to the &amp;ldquo;Document Upload Workflow&amp;rdquo; form&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style=&quot;width: 1057px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;S/N&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Title&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Download&lt;/b&gt;&lt;b&gt; Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;POC&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;1&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;Title of document&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;Name of team, Working Group&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;2&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;3&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;4&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;5&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;p&gt;The documents in this section are Best Practices by local USAR teams who had undergone INSARAG Recognised National Accreditation Process. These reports should be viewed as Reference Materials. For more information on the TRL, click on this &lt;span style=&quot;text-decoration: underline;&quot;&gt;link &lt;/span&gt;&amp;ndash; links the reader to TRL Tab in INSARAG.org&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Document Submission&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To upload a document, submit the document and details of the document, using the &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;document submission form&lt;/b&gt;&lt;/span&gt; &amp;ndash; links the reader to the &amp;ldquo;Document Submission Form for TRL&amp;rdquo; and email to the INSARAG Secretariat via &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;&lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;.&lt;/b&gt;&lt;/span&gt; For more information on the upload process and workflow, please refer to the following &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;link. &lt;/b&gt;&lt;/span&gt;&amp;ndash; links the reader to the &amp;ldquo;Document Upload Workflow&amp;rdquo; form&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style=&quot;width: 1057px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;S/N&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Title&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;Download&lt;/b&gt;&lt;b&gt; Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;background-color: #0066ff;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;b&gt;POC&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;1&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;Title of document&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;Name of team, Working Group&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;2&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;3&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;4&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;b&gt;5&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+		<category term="IRNAP" />
+	</entry>
+</feed>

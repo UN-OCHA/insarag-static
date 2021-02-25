@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Global News</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/global-structures/global-news/14-en/regional-groups/america</id>
+	<updated>2021-02-25T11:00:32+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/global-structures/global-news/14-en/regional-groups/america?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Americas</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/regional-groups/americas"/>
+		<published>2016-04-20T12:34:27+00:00</published>
+		<updated>2016-04-20T12:34:27+00:00</updated>
+		<id>https://www.insarag.org/regional-groups/americas</id>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Welcome to INSARAG Americas Regional Group. Here you will find reports and information about the regional group meetings, exercises and training activities.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Below is a video about INSARAG by the Americas Regional Group.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/Yunz6MEgR60&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Welcome to INSARAG Americas Regional Group. Here you will find reports and information about the regional group meetings, exercises and training activities.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Below is a video about INSARAG by the Americas Regional Group.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/Yunz6MEgR60&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="Americas" />
+	</entry>
+</feed>

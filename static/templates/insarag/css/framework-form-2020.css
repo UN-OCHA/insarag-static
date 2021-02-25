@@ -1,0 +1,31 @@
+input[type="text"], input[type="number"], input[type="password"],input[type="tel"], input[type="email"],
+textarea,
+select {
+ border:1px solid rgba(0,0,0,.25);
+ border-bottom:1px solid rgba(0,0,0,.35);
+ border-top:1px solid rgba(0,0,0,.20);
+ padding:6px 8px;
+ border-radius:4px;
+ box-sizing:border-box;
+ width:100%;
+}
+input[type="text"]:focus, input[type="number"]:focus, input[type="password"]:focus,
+textarea:focus,
+select:focus {
+ background-image:linear-gradient(0deg,#fff,#fff);
+ box-shadow:0 0 2px 2px rgba(47,181,210,.5)
+}
+input {
+ background-image:linear-gradient(0deg,#fff,rgba(0,0,0,.05));
+}
+textarea {
+ background:#fefefe;
+}
+select {
+}
+
+input[type="button"], input[type="submit"] {
+  background-image:none;
+}
+
+ 

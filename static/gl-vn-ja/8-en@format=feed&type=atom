@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Главная</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.insarag.org"/>
+	<id>https://www.insarag.org/gl-vn-ja/8-en</id>
+	<updated>2021-02-25T10:52:26+00:00</updated>
+	<author>
+		<name>INSARAG</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.insarag.org/gl-vn-ja/8-en?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Legal Notice</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/legal-notice"/>
+		<published>2016-04-25T13:05:05+00:00</published>
+		<updated>2016-04-25T13:05:05+00:00</updated>
+		<id>https://www.insarag.org/legal-notice</id>
+		<author>
+			<name>Super Utilisateur</name>
+		</author>
+		<summary type="html">&lt;h3&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;This website and its content is copyright of OCHA - &amp;copy; OCHA [2012]. All rights reserved.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:&lt;/p&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;You may print or download to local hard disk extracts for your personal and non-commercial use only you may copy the content to individual third parties for their personal use, but only if you acknowledge the website as the source of the material&lt;/li&gt;
+&lt;li&gt;You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or another form of the electronic retrieval system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If any general question, please contact us at &lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;This website and its content is copyright of OCHA - &amp;copy; OCHA [2012]. All rights reserved.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:&lt;/p&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;You may print or download to local hard disk extracts for your personal and non-commercial use only you may copy the content to individual third parties for their personal use, but only if you acknowledge the website as the source of the material&lt;/li&gt;
+&lt;li&gt;You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or another form of the electronic retrieval system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If any general question, please contact us at &lt;a href=&quot;mailto:insarag@un.org&quot;&gt;insarag@un.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="en" />
+	</entry>
+	<entry>
+		<title>International Search and Rescue Advisory Group (INSARAG)</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/"/>
+		<published>2016-04-04T09:20:06+00:00</published>
+		<updated>2016-04-04T09:20:06+00:00</updated>
+		<id>https://www.insarag.org/</id>
+		<author>
+			<name>Super Utilisateur</name>
+		</author>
+		<summary type="html">&lt;p&gt;INSARAG is a global network of more than 90 countries and organisations under the United Nations umbrella. INSARAG deals with urban search and rescue (USAR) related issues, aiming to establish minimum international standards for USAR teams and methodology for international coordination in earthquake response based on the INSARAG Guidelines endorsed by the United Nations General Assembly Resolution 57/150 of 2002, on “Strengthening the Effectiveness and Coordination of International Urban Search and Rescue Assistance”&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;INSARAG is a global network of more than 90 countries and organisations under the United Nations umbrella. INSARAG deals with urban search and rescue (USAR) related issues, aiming to establish minimum international standards for USAR teams and methodology for international coordination in earthquake response based on the INSARAG Guidelines endorsed by the United Nations General Assembly Resolution 57/150 of 2002, on “Strengthening the Effectiveness and Coordination of International Urban Search and Rescue Assistance”&lt;/p&gt;</content>
+		<category term="en" />
+	</entry>
+	<entry>
+		<title>Contact us</title>
+		<link rel="alternate" type="text/html" href="https://www.insarag.org/gl-vn-ja/8-en/3-contact-us"/>
+		<published>2016-04-04T11:23:05+00:00</published>
+		<updated>2016-04-04T11:23:05+00:00</updated>
+		<id>https://www.insarag.org/gl-vn-ja/8-en/3-contact-us</id>
+		<author>
+			<name>Super Utilisateur</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;page-header&quot;&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;INSARAG Secretariat&lt;/span&gt;&lt;/address&gt;&lt;address&gt;
+&lt;p&gt;Emergency Response Section - Emergency Response Support Branch&lt;br /&gt;Office for the Coordination of Humanitarian Affairs (OCHA)&lt;br /&gt;Palais des Nations - CH 112 Geneva 10, Switzerland&lt;br /&gt;insarag@un.org&lt;br /&gt;Duty officer mobile (emergencies only): +41 22 917 16 00&lt;/p&gt;
+&lt;p&gt;Secretary of INSARAG&lt;br /&gt;&lt;strong&gt;Mr. Sebastian Rhodes Stampa&lt;/strong&gt;&lt;br /&gt;rhodesstampa@un.org&lt;br /&gt;Office : +41 22 917 59 65&lt;br /&gt;Mobile : +41 79 691 11 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Winston Chang (&lt;/strong&gt;INSARAG Secretariat (Worldwide) and Asia/ Pacific region)&lt;br /&gt;changw@un.org&lt;br /&gt;Office: +41 22 917 11 73&lt;br /&gt;Mobile: +41 79 469 85 88&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Marlisa Delfin&lt;/strong&gt;&amp;nbsp;(support Asia/ Pacific region)&lt;br /&gt;delfin@un.org&lt;br /&gt;Office : +41 22 917 28 74&lt;br /&gt;Mobile : +41 79 646 22 92&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Christophe Schmachtel (&lt;/strong&gt;INSARAG Secretariat Americas)&amp;nbsp;&lt;br /&gt;schmachtel@un.org&lt;br /&gt;Office: +507 309 3310&lt;br /&gt;Mobile: +507 6676 0528&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Martin Perez&lt;/strong&gt;&amp;nbsp;(support Americas)&lt;br /&gt;perez1@un.org&lt;br /&gt;Office: + 41 22 917 32 18&lt;br /&gt;Mobile: +41 79 469 85 90&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Martijn Viersma&amp;nbsp;&lt;/strong&gt;(INSARAG Secretariat&amp;nbsp;Europe-Middle East)&lt;br /&gt;trassari@un.org&lt;br /&gt;Office : +41 22 917 15 18&lt;br /&gt;Mobile : +41 79 444 45 33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Mure Marie&lt;/strong&gt;&amp;nbsp;(support Europe-Middle East &amp;ndash; INSARAG Global)&lt;br /&gt;mure@un.org&lt;br /&gt;Office : +41 22 917 3484&lt;br /&gt;Mobile : +41 79 477 08 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Roberto Colangelo&amp;nbsp;&lt;/strong&gt;INSARAG Secretariat (Africa - the Commonwealth of Independent States)&lt;br /&gt;colangelo@un.org&lt;br /&gt;Office : +41 22 917 41 14&lt;br /&gt;Mobile : +41 76 691 10 33&lt;/p&gt;
+&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;page-header&quot;&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;address&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 10pt;&quot;&gt;INSARAG Secretariat&lt;/span&gt;&lt;/address&gt;&lt;address&gt;
+&lt;p&gt;Emergency Response Section - Emergency Response Support Branch&lt;br /&gt;Office for the Coordination of Humanitarian Affairs (OCHA)&lt;br /&gt;Palais des Nations - CH 112 Geneva 10, Switzerland&lt;br /&gt;insarag@un.org&lt;br /&gt;Duty officer mobile (emergencies only): +41 22 917 16 00&lt;/p&gt;
+&lt;p&gt;Secretary of INSARAG&lt;br /&gt;&lt;strong&gt;Mr. Sebastian Rhodes Stampa&lt;/strong&gt;&lt;br /&gt;rhodesstampa@un.org&lt;br /&gt;Office : +41 22 917 59 65&lt;br /&gt;Mobile : +41 79 691 11 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Winston Chang (&lt;/strong&gt;INSARAG Secretariat (Worldwide) and Asia/ Pacific region)&lt;br /&gt;changw@un.org&lt;br /&gt;Office: +41 22 917 11 73&lt;br /&gt;Mobile: +41 79 469 85 88&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Marlisa Delfin&lt;/strong&gt;&amp;nbsp;(support Asia/ Pacific region)&lt;br /&gt;delfin@un.org&lt;br /&gt;Office : +41 22 917 28 74&lt;br /&gt;Mobile : +41 79 646 22 92&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Christophe Schmachtel (&lt;/strong&gt;INSARAG Secretariat Americas)&amp;nbsp;&lt;br /&gt;schmachtel@un.org&lt;br /&gt;Office: +507 309 3310&lt;br /&gt;Mobile: +507 6676 0528&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Martin Perez&lt;/strong&gt;&amp;nbsp;(support Americas)&lt;br /&gt;perez1@un.org&lt;br /&gt;Office: + 41 22 917 32 18&lt;br /&gt;Mobile: +41 79 469 85 90&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Martijn Viersma&amp;nbsp;&lt;/strong&gt;(INSARAG Secretariat&amp;nbsp;Europe-Middle East)&lt;br /&gt;trassari@un.org&lt;br /&gt;Office : +41 22 917 15 18&lt;br /&gt;Mobile : +41 79 444 45 33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Mure Marie&lt;/strong&gt;&amp;nbsp;(support Europe-Middle East &amp;ndash; INSARAG Global)&lt;br /&gt;mure@un.org&lt;br /&gt;Office : +41 22 917 3484&lt;br /&gt;Mobile : +41 79 477 08 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Roberto Colangelo&amp;nbsp;&lt;/strong&gt;INSARAG Secretariat (Africa - the Commonwealth of Independent States)&lt;br /&gt;colangelo@un.org&lt;br /&gt;Office : +41 22 917 41 14&lt;br /&gt;Mobile : +41 76 691 10 33&lt;/p&gt;
+&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/address&gt;&lt;/div&gt;</content>
+		<category term="en" />
+	</entry>
+</feed>
